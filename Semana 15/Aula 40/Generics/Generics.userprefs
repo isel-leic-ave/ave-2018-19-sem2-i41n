@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{50D613C1-B597-4C87-86A3-9A4FE734F276}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercício 02 - Converter/Program.cs">
+    <Files>
+      <File FileName="OpenAndCloseTypes.cs" Line="25" Column="33" />
+      <File FileName="ArrayCastToIListGeneric.cs" Line="12" Column="33" />
+      <File FileName="Exercicio 01/Program.cs" Line="113" Column="37" />
+      <File FileName="Exercício 02 - Converter/Program.cs" Line="18" Column="6" />
+      <File FileName="nullable.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
